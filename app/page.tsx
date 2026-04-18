@@ -16,3 +16,6 @@ export default function Home() {
     </main>
   );
 }
+<div style={{textAlign:"center",margin:"20px"}}>
+  <a href="/admin">Admin Panel</a>
+</div>
