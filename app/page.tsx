@@ -8,6 +8,11 @@ export default function Home() {
       <Hero />
       <Services />
       <Portfolio />
+
+      <div style={{textAlign:"center",margin:"40px"}}>
+        <a href="/contact">Contact Us</a>
+      </div>
+
     </main>
   );
 }
